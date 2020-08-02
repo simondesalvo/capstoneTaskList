@@ -1,0 +1,12 @@
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.csprojAssemblyReference.cache
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.AssemblyInfoInputs.cache
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.AssemblyInfo.cs
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.csproj.CoreCompileInputs.cache
+/Users/simon/Projects/capstonetasklist/bin/Debug/netcoreapp3.1/capstonetasklist.deps.json
+/Users/simon/Projects/capstonetasklist/bin/Debug/netcoreapp3.1/capstonetasklist.runtimeconfig.json
+/Users/simon/Projects/capstonetasklist/bin/Debug/netcoreapp3.1/capstonetasklist.runtimeconfig.dev.json
+/Users/simon/Projects/capstonetasklist/bin/Debug/netcoreapp3.1/capstonetasklist.dll
+/Users/simon/Projects/capstonetasklist/bin/Debug/netcoreapp3.1/capstonetasklist.pdb
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.dll
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.pdb
+/Users/simon/Projects/capstonetasklist/obj/Debug/netcoreapp3.1/capstonetasklist.genruntimeconfig.cache
